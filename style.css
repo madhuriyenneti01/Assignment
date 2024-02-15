@@ -1,0 +1,19 @@
+.solid{
+    text-align: center;
+    color:blue;
+    font-style: italic;
+    font-weight:300;
+    font-size:40px;
+    background-color:powderblue;
+}
+.solid1{
+    color:darkgreen;
+    font-size: 20px;
+    font-style: italic;
+    text-align:center;
+    background-color:powderblue;
+}
+.s2{
+    color:rgb(241, 22, 22);
+    background-color:rgb(122, 224, 147);
+}
